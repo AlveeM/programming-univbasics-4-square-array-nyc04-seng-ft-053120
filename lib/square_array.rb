@@ -3,4 +3,5 @@ def square_array(arr)
   while arr[i] {
     arr[i] = arr[i] * arr[i]
   }
+  
 end
